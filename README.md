@@ -1,4 +1,4 @@
-# 폭탄 피하기 게임(AvoidingBombsGame)
+# 폭탄 피하기 게임(Avoiding Bombs Game)
 https://user-images.githubusercontent.com/91407433/152628271-fb76769a-41d5-40eb-a6c4-bd158cd53456.mp4
 
 - 게임 목표: 게임 종료 조건을 만족하지 않도록 최대한 오래 버티기
