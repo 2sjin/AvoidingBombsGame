@@ -1,0 +1,5 @@
+﻿  MathQuiz.c
+D:\workspace\visualstudio-workspace\beginning-of-C\MathQuiz\MathQuiz.c(5,13): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\workspace\visualstudio-workspace\beginning-of-C\MathQuiz\MathQuiz.c(34,7): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\workspace\visualstudio-workspace\beginning-of-C\MathQuiz\MathQuiz.c(50,8): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  MathQuiz.vcxproj -> D:\workspace\visualstudio-workspace\beginning-of-C\Debug\MathQuiz.exe

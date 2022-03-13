@@ -1,0 +1,5 @@
+﻿  BalanceQuiz.c
+D:\workspace\visualstudio-workspace\beginning-of-C\BalanceQuiz\BalanceQuiz.c(8,7): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\workspace\visualstudio-workspace\beginning-of-C\BalanceQuiz\BalanceQuiz.c(13,15): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\workspace\visualstudio-workspace\beginning-of-C\BalanceQuiz\BalanceQuiz.c(25,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  BalanceQuiz.vcxproj -> D:\workspace\visualstudio-workspace\beginning-of-C\Debug\BalanceQuiz.exe
